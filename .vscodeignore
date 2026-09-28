@@ -1,0 +1,9 @@
+.vscode/**
+src/**
+node_modules/**
+esbuild.js
+vite.config.ts
+tsconfig*.json
+**/*.map
+**/*.ts
+!dist/**
